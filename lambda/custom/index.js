@@ -234,7 +234,7 @@ const languageString = {
   en: {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_US,
-      GAME_NAME: 'Reindeer Trivia',
+      GAME_NAME: 'AnswertheQuestion Trivia',
       HELP_MESSAGE: 'I will ask you %s multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. ',
       REPEAT_QUESTION_MESSAGE: 'To repeat the last question, say, repeat. ',
       ASK_MESSAGE_START: 'Would you like to start playing?',

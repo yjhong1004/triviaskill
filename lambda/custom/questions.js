@@ -7,749 +7,486 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'Which animal has the longest tongue relative to its total size?': [
+        'Chameleon',
+        'Snake',
+        'Giraffe',
+        'Seal',
+        'Cat',
+        'Dolphin',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'In Disney’s 1959 animated film Sleeping Beauty, who is Princess Aurora betrothed to?': [
+        'Prince Phillip',
+        'Prince William',
+        'Prince Eric',
+        'Prince Harry',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Which city is traditionally said to be built on seven hills?': [
+        'Rome',
+        'Florence',
+        'Paris',
+        'Venice',
       ],
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
+      'Which city in the United States is known as the “Windy City”?': [
+        'Chicago',
+        'New York',
+        'Minneapolis',
+        'Houston',
       ],
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
+      'The European Organization for Nuclear Research is known by what four letter acronym?': [
+        'CERN',
+        'NASA',
+        'NIST',
+        'KAST',
       ],
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
+      'What is the farthest human-made object from planet Earth?': [
+        'Voyager 1',
+        'CD Disk',
+        'Hearing Implant',
+        'USS Rocket',
       ],
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
+      'The US military installation Area 51 is located in which state?': [
+        'Nevada',
+        'California',
+        'Texas',
+        'Kansas',
       ],
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
+      'The Kangaroo Hoppet is a long distance cross-country skiing race that is held in which county?': [
+        'Australia',
+        'New Zealand',
+        'Iceland',
+        'Greenland',
       ],
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
+      'In what city does a Creole lady of the night strut her stuff, according to the original 1974 song “Lady Marmalade”?': [
+        'New Orleans',
+        'Los Angeles',
+        'Naperville',
+        'Springfield',
       ],
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
+      'In what year was the United States Pledge of Allegiance written?': [
+        '1892',
+        '1876',
+        '1902',
+        '1942',
       ],
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
+      'Cogito ergo sum, “I think, therefore I am”, is a Latin phrase by whom?': [
+        'René Descartes',
         'Johnny Marks',
         'Santa',
         'J K  Rowling',
       ],
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
+      'Hiragana, Katakana and Kanji are the names for writing systems used in which country?': [
+        'Japan',
         'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
+        'Indonesia',
+        'Thailand',
       ],
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
+      'Which painter started the impressionist movement?': [
+        'Claude Monet',
+        'Pablo Picasso',
+        'Jackson Pollock',
+        'Vincent van Gogh',
       ],
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
+      'What is the common name for stone consisting of the minerals jadeite or nephrite?': [
+        'Jade',
+        'Emerald',
+        'Ruby',
+        'Diamond',
       ],
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
+      'The art of paper folding is known as what?': [
+        'Origami',
+        'Kandoli',
+        'Fleeting',
+        'Forle',
       ],
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
+      'Spaceship Earth is the icon for what amusement park that features technological innovation and international culture?': [
+        'Epcot',
+        'Universal Studios',
+        'Knott\'s Berry Farm',
       ],
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
+      'Who was the male lead in the 1996 summer blockbuster Independence Day?': [
+        'Will Smith',
+        'Kevin Hart',
+        'Ice Cube',
+        'Forest Whitaker',
       ],
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
+      'What was the highest selling album of the 1980s in the United States?': [
+        'Thriller by Michael Jackson',
+        'Appetite for Destruction by Guns N\' Roses',
+        'Born in the U.S.A. by Bruce Springsteen',
+        'Back in Black by AC/DC',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
+      'Which actress played the genie in the American comedy sitcom “I Dream of Jeannie”?': [
+        'Barbara Eden',
+        'Vera Miles',
+        'Judy Garland',
+        'Audrey Hepburn',
       ],
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
+      'What is the name for the monetary unit used in Thailand?': [
+        'Thai Bhat',
+        'Thai Ghat',
+        'Srat',
+        'Lhat',
       ],
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
+      'The Pascaline, invented by Blaise Pascal in the early 17th century, was a mechanical type of what device?': [
+        'Calculator',
+        'Measuring Cup',
+        'Clock',
         'Candlestick maker',
       ],
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
+      'Founded in 1921, this company was credited with being the first “fast food” chain?': [
+        'White Castle',
+        'McDonald\'s',
+        'Wendy\'s',
+        'Subway',
       ],
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
+      'What happened to British street artist Banksy’s “Girl with Balloon” when it sold for $1.4 million at Sotheby’s auction house in 2018?': [
+        'It shredded itself',
+        'Someone stole it',
+        'Someone shot it',
       ],
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
+      'In database programming, SQL is an acronym for what?': [
+        'Structured Query Language',
+        'Statistical Query Language',
+        'Statistical Quest Language',
+        'Structured Quest Language',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
+      'What is the name for the pigment found in your skin and hair that gives them color?': [
+        'Melanin',
+        'Salycilic',
+        'Acetate',
+        'Ether',
       ],
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
+      '“Granny Smith” is a popular type of which fruit?': [
+        'Apple',
+        'Lemon',
+        'Lime',
+        'Tangerine',
       ],
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
+      'What is the real name of the former wrestler turned actor who went by the ring name “The Rock”?': [
+        'Dwayne Douglas Johnson',
+        'Vin Diesel',
+        'Luke Hobbs',
+        'Jason Statham',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
+      'Foie gras is a french delicacy made from the liver of what animal?': [
+        'Duck/Goose',
+        'Pig',
+        'Lamb',
+        'Cow',
       ],
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
+      'The southernmost part of the US is located in which state?': [
+        'Hawaii',
+        'Texas',
+        'New Mexico',
+        'Louisiana',
       ],
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
+      'What do you call a group of unicorns?': [
+        'A blessing',
+        'A squad',
+        'A gathering',
+        'A group',
       ],
     },
   ],
   QUESTIONS_EN_US: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'Which animal has the longest tongue relative to its total size?': [
+        'Chameleon',
+        'Snake',
+        'Giraffe',
+        'Seal',
+        'Cat',
+        'Dolphin',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'In Disney’s 1959 animated film Sleeping Beauty, who is Princess Aurora betrothed to?': [
+        'Prince Phillip',
+        'Prince William',
+        'Prince Eric',
+        'Prince Harry',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Which city is traditionally said to be built on seven hills?': [
+        'Rome',
+        'Florence',
+        'Paris',
+        'Venice',
       ],
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
+      'Which city in the United States is known as the “Windy City”?': [
+        'Chicago',
+        'New York',
+        'Minneapolis',
+        'Houston',
       ],
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
+      'The European Organization for Nuclear Research is known by what four letter acronym?': [
+        'CERN',
+        'NASA',
+        'NIST',
+        'KAST',
       ],
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
+      'What is the farthest human-made object from planet Earth?': [
+        'Voyager 1',
+        'CD Disk',
+        'Hearing Implant',
+        'USS Rocket',
       ],
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
+      'The US military installation Area 51 is located in which state?': [
+        'Nevada',
+        'California',
+        'Texas',
+        'Kansas',
       ],
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
+      'The Kangaroo Hoppet is a long distance cross-country skiing race that is held in which county?': [
+        'Australia',
+        'New Zealand',
+        'Iceland',
+        'Greenland',
       ],
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
+      'In what city does a Creole lady of the night strut her stuff, according to the original 1974 song “Lady Marmalade”?': [
+        'New Orleans',
+        'Los Angeles',
+        'Naperville',
+        'Springfield',
       ],
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
+      'In what year was the United States Pledge of Allegiance written?': [
+        '1892',
+        '1876',
+        '1902',
+        '1942',
       ],
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
+      'Cogito ergo sum, “I think, therefore I am”, is a Latin phrase by whom?': [
+        'René Descartes',
         'Johnny Marks',
         'Santa',
         'J K  Rowling',
       ],
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
+      'Hiragana, Katakana and Kanji are the names for writing systems used in which country?': [
+        'Japan',
         'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
+        'Indonesia',
+        'Thailand',
       ],
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
+      'Which painter started the impressionist movement?': [
+        'Claude Monet',
+        'Pablo Picasso',
+        'Jackson Pollock',
+        'Vincent van Gogh',
       ],
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
+      'What is the common name for stone consisting of the minerals jadeite or nephrite?': [
+        'Jade',
+        'Emerald',
+        'Ruby',
+        'Diamond',
       ],
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
+      'The art of paper folding is known as what?': [
+        'Origami',
+        'Kandoli',
+        'Fleeting',
+        'Forle',
       ],
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
+      'Spaceship Earth is the icon for what amusement park that features technological innovation and international culture?': [
+        'Epcot',
+        'Universal Studios',
+        'Knott\'s Berry Farm',
       ],
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
+      'Who was the male lead in the 1996 summer blockbuster Independence Day?': [
+        'Will Smith',
+        'Kevin Hart',
+        'Ice Cube',
+        'Forest Whitaker',
       ],
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
+      'What was the highest selling album of the 1980s in the United States?': [
+        'Thriller by Michael Jackson',
+        'Appetite for Destruction by Guns N\' Roses',
+        'Born in the U.S.A. by Bruce Springsteen',
+        'Back in Black by AC/DC',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
+      'Which actress played the genie in the American comedy sitcom “I Dream of Jeannie”?': [
+        'Barbara Eden',
+        'Vera Miles',
+        'Judy Garland',
+        'Audrey Hepburn',
       ],
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
+      'What is the name for the monetary unit used in Thailand?': [
+        'Thai Bhat',
+        'Thai Ghat',
+        'Srat',
+        'Lhat',
       ],
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
+      'The Pascaline, invented by Blaise Pascal in the early 17th century, was a mechanical type of what device?': [
+        'Calculator',
+        'Measuring Cup',
+        'Clock',
         'Candlestick maker',
       ],
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
+      'Founded in 1921, this company was credited with being the first “fast food” chain?': [
+        'White Castle',
+        'McDonald\'s',
+        'Wendy\'s',
+        'Subway',
       ],
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
+      'What happened to British street artist Banksy’s “Girl with Balloon” when it sold for $1.4 million at Sotheby’s auction house in 2018?': [
+        'It shredded itself',
+        'Someone stole it',
+        'Someone shot it',
       ],
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
+      'In database programming, SQL is an acronym for what?': [
+        'Structured Query Language',
+        'Statistical Query Language',
+        'Statistical Quest Language',
+        'Structured Quest Language',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
+      'What is the name for the pigment found in your skin and hair that gives them color?': [
+        'Melanin',
+        'Salycilic',
+        'Acetate',
+        'Ether',
       ],
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
+      '“Granny Smith” is a popular type of which fruit?': [
+        'Apple',
+        'Lemon',
+        'Lime',
+        'Tangerine',
       ],
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
+      'What is the real name of the former wrestler turned actor who went by the ring name “The Rock”?': [
+        'Dwayne Douglas Johnson',
+        'Vin Diesel',
+        'Luke Hobbs',
+        'Jason Statham',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
+      'Foie gras is a french delicacy made from the liver of what animal?': [
+        'Duck/Goose',
+        'Pig',
+        'Lamb',
+        'Cow',
       ],
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
+      'The southernmost part of the US is located in which state?': [
+        'Hawaii',
+        'Texas',
+        'New Mexico',
+        'Louisiana',
       ],
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
+      'What do you call a group of unicorns?': [
+        'A blessing',
+        'A squad',
+        'A gathering',
+        'A group',
       ],
     },
   ],
-  QUESTIONS_DE_DE: [
-    {
-      'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
-    },
-    {
-      'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in? ': [
-        'Japan',
-        'USA',
-        'Finnland',
-        'Deutschland',
-        'Kanada',
-        'Norwegen',
-        'Frankreich',
-      ],
-    },
-    {
-      'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen, Wie heißt sie?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pfeffer Minstix',
-      ],
-    },
-    {
-      'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle ': [
-        'Weiblich',
-        'Männlich',
-        'Weiblich und männlich',
-        'Kann man nicht sagen',
-      ],
-    },
-    {
-      'Was essen Rentiere?': [
-        'Flechten',
-        'Gras',
-        'Blätter',
-        'Beeren',
-      ],
-    },
-    {
-      'Welche Aussage ist nicht richtig?': [
-        'Karibus leben auf allen Kontinenten',
-        'Karibus und Rentiere gehören derselben Gattung an ',
-        'Karibus sind größer als Rentiere',
-        'Rentiere leben in Skandinavien und Russland',
-      ],
-    },
-    {
-      'In welchem Jahr kam Rudolph ins Fernsehen?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
-    },
-    {
-      'Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
-    },
-    {
-      'Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
-    },
-    {
-      'Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
-    },
-    {
-      'Wer hat die Geschichte von Rudolph erfunden?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
-    },
-    {
-      'Wo findest du keine Rentiere?': [
-        'Nordpol',
-        'Lappland',
-        'Korvatunturi Berge',
-        'Finnland',
-      ],
-    },
-    {
-      'Warum können die Rentiere des Weihnachtsmanns fliegen?': [
-        'Magischer Staub der Rentiere',
-        'Fusion',
-        'Amanita muscaria',
-        'Elfen',
-      ],
-    },
-    {
-      'Wieviele Rentierhufe gibt es hier einschließlich Rudolph?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
-    },
-    {
-      'Der Weihnachtsmann hat nur ein weibliches Rentier, Wie heißt es?': [
-        'Blitzen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
-    },
-    {
-      'Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
-    },
-    {
-      'Wie hieß der Vater von Rudolph?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
-    },
-    {
-      'Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
-    },
-    {
-      'Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
-    },
-    {
-      'Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?': [
-        'Schwarzer Schlamm',
-        'Sack',
-        'Kissenbezug',
-        'Socke',
-      ],
-    },
-    {
-      'Was möchte die Misfit Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
-        'Zahnarzt',
-        'Rentier',
-        'Spielzeugmacher',
-        'Kerzenmacher',
-      ],
-    },
-    {
-      'Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?': [
-        'Konnte nicht schwimmen',
-        'War immer hungrig',
-        'Zuckerstangen',
-        'Schielte',
-      ],
-    },
-    {
-      'Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?': [
-        'Pfefferminz',
-        'Gold',
-        'Indien',
-        'Polarbären',
-      ],
-    },
-    {
-      'Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?': [
-        'Viereckige Räder',
-        'Keine Dampfmaschine',
-        'Farbe stimmt nicht',
-        'Pfeift nicht',
-      ],
-    },
-    {
-      'Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
-    },
-    {
-      'Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?': [
-        'Sturm',
-        'Kein Schnee',
-        'Kein Spielzeug',
-        'Die Rentiere waren krank',
-      ],
-    },
-    {
-      'Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?': [
-        'Oink',
-        'Knurr',
-        'Wauwau',
-        'Miau',
-      ],
-    },
-    {
-      'Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
-    },
-    {
-      'Wie weit ziehen Rentiere auf ihren Wanderungen?': [
-        '4800 km',
-        '1100 km',
-        '800 km',
-        '0 km',
-      ],
-    },
-    {
-      'Wie schnell läuft ein Rentier?': [
-        '77 km pro Stunde',
-        '27 km pro Stunde',
-        '30 km pro Stunde',
-        '22 km pro Stunde',
-        '83 km pro Stunde',
-        '65 km pro Stunde',
-      ],
-    },
-  ],
-};
+  
